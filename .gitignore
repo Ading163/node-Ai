@@ -1,0 +1,12 @@
+﻿# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+.vscode
+.idea
+*/report.*.json
+
+cache
+/node_modules
+/**/*/node_modules
+.DS_Store
+dist
+*.log
